@@ -1,0 +1,7 @@
+00:31:22.567 [TestNG-tests-1] INFO  Academy.Listeners - *** Test Suite basePageNavigation ending ***
+00:31:23.605 [TestNG-tests-1] INFO  Academy.HomePage - UserName entered successfully
+00:31:23.655 [TestNG-tests-1] INFO  Academy.HomePage - Password entered successfully
+00:31:24.273 [TestNG-tests-1] INFO  Academy.HomePage - clicked on sign in button
+20:57:00.866 [main] INFO  Academy.HomePage - Driver is intialized
+20:57:14.241 [main] INFO  Academy.HomePage - Navigated to home page
+20:57:16.402 [main] INFO  Academy.HomePage - UserName entered successfully

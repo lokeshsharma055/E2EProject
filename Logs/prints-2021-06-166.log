@@ -1,0 +1,6 @@
+22:44:01.986 [TestNG-tests-2] INFO  Academy.validateTitle - Driver is intialized
+22:44:09.783 [TestNG-tests-2] INFO  Academy.validateTitle - Navigated to home page
+22:44:09.834 [TestNG-tests-2] INFO  Academy.validateTitle - Successfully verified the title
+22:44:11.948 [TestNG-tests-1] INFO  Academy.HomePage - Navigated to home page
+22:44:12.037 [TestNG-tests-3] INFO  Academy.verifyNavigationBar - Navigated to home page
+22:44:12.086 [TestNG-tests-3] INFO  Academy.verifyNavigationBar - Navigation bar is displayed

@@ -1,0 +1,6 @@
+23:09:11.166 [TestNG-tests-3] INFO  Academy.verifyNavigationBar - Navigated to home page
+23:09:11.173 [TestNG-tests-3] INFO  Academy.Listeners - *** Test Suite verifyBar ending ***
+23:09:11.213 [TestNG-tests-3] INFO  Academy.verifyNavigationBar - Navigation bar is displayed
+23:09:11.293 [TestNG-tests-1] INFO  Academy.HomePage - Navigated to home page
+23:09:11.296 [TestNG-tests-1] INFO  Academy.Listeners - *** Test Suite basePageNavigation ending ***
+23:09:13.406 [TestNG-tests-1] INFO  Academy.HomePage - UserName entered successfully

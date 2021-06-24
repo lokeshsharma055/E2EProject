@@ -1,0 +1,6 @@
+00:31:17.359 [TestNG-tests-3] INFO  Academy.verifyNavigationBar - Navigation bar is displayed
+00:31:19.557 [TestNG-tests-1] INFO  Academy.HomePage - Navigated to home page
+00:31:19.560 [TestNG-tests-1] INFO  Academy.Listeners - *** Test Suite basePageNavigation ending ***
+00:31:21.642 [TestNG-tests-1] INFO  Academy.HomePage - UserName entered successfully
+00:31:21.691 [TestNG-tests-1] INFO  Academy.HomePage - Password entered successfully
+00:31:22.343 [TestNG-tests-1] INFO  Academy.HomePage - clicked on sign in button
